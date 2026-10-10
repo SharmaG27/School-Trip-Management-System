@@ -1,0 +1,563 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sha23877892\\Downloads\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\global_module.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:global_module.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|c:\\users\\sha23877892\\downloads\\prototype\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\monthlycalendarinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:monthlycalendarinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Users\\sha23877892\\Downloads\\Prototype\\tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global_Module.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Global_Module.vb",
+              "RelativeDocumentMoniker": "Global_Module.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Global_Module.vb",
+              "RelativeToolTip": "Global_Module.vb",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwMMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T14:01:01.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MAIN MENU.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\MAIN MENU.vb",
+              "RelativeDocumentMoniker": "MAIN MENU.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\MAIN MENU.vb [Design]",
+              "RelativeToolTip": "MAIN MENU.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T16:10:16.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Settings.vb [Design]",
+              "RelativeToolTip": "Settings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-19T11:22:37.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Login.vb",
+              "RelativeToolTip": "Login.vb",
+              "ViewState": "AgIAANUAAAAAAAAAAAAiwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T14:00:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripSupervise.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSupervise.vb",
+              "RelativeDocumentMoniker": "TripSupervise.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSupervise.vb",
+              "RelativeToolTip": "TripSupervise.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-03T17:38:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Settings.vb",
+              "RelativeToolTip": "Settings.vb",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-19T11:22:55.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TripSignup.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSignup.vb",
+              "RelativeDocumentMoniker": "TripSignup.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSignup.vb",
+              "RelativeToolTip": "TripSignup.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T19:51:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TripSignup.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSignup.vb",
+              "RelativeDocumentMoniker": "TripSignup.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TripSignup.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\TripSignup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T19:51:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit_My_Details.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Edit_My_Details.vb",
+              "RelativeDocumentMoniker": "Edit_My_Details.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Edit_My_Details.vb",
+              "RelativeToolTip": "Edit_My_Details.vb",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAYwP8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-02T16:43:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emergency_Contacts.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Emergency_Contacts.vb",
+              "RelativeDocumentMoniker": "Emergency_Contacts.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Emergency_Contacts.vb",
+              "RelativeToolTip": "Emergency_Contacts.vb",
+              "ViewState": "AgIAAHABAAAAAAAAAAAAAIcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-29T13:58:45.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MAIN MENU.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\MAIN MENU.vb",
+              "RelativeDocumentMoniker": "MAIN MENU.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\MAIN MENU.vb",
+              "RelativeToolTip": "MAIN MENU.vb",
+              "ViewState": "AgIAABcBAAAAAAAAAADwvyYBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T16:10:26.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manage_Trips.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Manage_Trips.vb",
+              "RelativeDocumentMoniker": "Manage_Trips.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Manage_Trips.vb",
+              "RelativeToolTip": "Manage_Trips.vb",
+              "ViewState": "AgIAAEIDAAAAAAAAAAAowAQDAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-23T17:32:27.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripInformation.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripInformation.vb",
+              "RelativeDocumentMoniker": "TripInformation.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TripInformation.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\TripInformation.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T14:08:48.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherDetails.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TeacherDetails.vb",
+              "RelativeDocumentMoniker": "TeacherDetails.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TeacherDetails.vb",
+              "RelativeToolTip": "TeacherDetails.vb",
+              "ViewState": "AQIAANQAAAAAAAAAAAAIwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-10T10:09:58.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TeacherDetails.vb",
+              "RelativeDocumentMoniker": "TeacherDetails.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TeacherDetails.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\TeacherDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-10T09:49:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\StudentDetails.vb",
+              "RelativeDocumentMoniker": "StudentDetails.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\StudentDetails.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\StudentDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-19T16:44:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Splash_Screen.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Splash_Screen.vb",
+              "RelativeDocumentMoniker": "Splash_Screen.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Splash_Screen.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\Splash_Screen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-03T18:55:50.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Splash_Screen.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Splash_Screen.vb",
+              "RelativeDocumentMoniker": "Splash_Screen.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Splash_Screen.vb",
+              "RelativeToolTip": "Splash_Screen.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-03T18:56:21.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentDetails.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\StudentDetails.vb",
+              "RelativeDocumentMoniker": "StudentDetails.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\StudentDetails.vb",
+              "RelativeToolTip": "StudentDetails.vb",
+              "ViewState": "AQIAANQAAAAAAAAAAAAIwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-19T16:44:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReceptionistDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\ReceptionistDetails.vb",
+              "RelativeDocumentMoniker": "ReceptionistDetails.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\ReceptionistDetails.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\ReceptionistDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:11:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReceptionistAdminControl.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\ReceptionistAdminControl.vb",
+              "RelativeDocumentMoniker": "ReceptionistAdminControl.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\ReceptionistAdminControl.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\ReceptionistAdminControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:01:29.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReceptionistAdminControl.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\ReceptionistAdminControl.vb",
+              "RelativeDocumentMoniker": "ReceptionistAdminControl.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\ReceptionistAdminControl.vb",
+              "RelativeToolTip": "ReceptionistAdminControl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:02:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MonthlyCalendarInfo.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\MonthlyCalendarInfo.vb",
+              "RelativeDocumentMoniker": "MonthlyCalendarInfo.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\MonthlyCalendarInfo.vb",
+              "RelativeToolTip": "MonthlyCalendarInfo.vb",
+              "ViewState": "AQIAALUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T18:27:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Medical_Info.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Medical_Info.vb",
+              "RelativeDocumentMoniker": "Medical_Info.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Medical_Info.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\Medical_Info.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-29T13:55:59.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Manage_Trips.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Manage_Trips.vb",
+              "RelativeDocumentMoniker": "Manage_Trips.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Manage_Trips.vb [Design]",
+              "RelativeToolTip": "Manage_Trips.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-23T17:31:30.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Login.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T13:58:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Medical_Info.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Medical_Info.vb",
+              "RelativeDocumentMoniker": "Medical_Info.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Medical_Info.vb",
+              "RelativeToolTip": "Medical_Info.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-29T13:57:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Emergency_Contacts.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Emergency_Contacts.vb",
+              "RelativeDocumentMoniker": "Emergency_Contacts.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Emergency_Contacts.vb [Design]",
+              "RelativeToolTip": "Emergency_Contacts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T20:07:56.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Help.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Help.vb",
+              "RelativeDocumentMoniker": "Help.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Help.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Dell\\Downloads\\Prototype\\Help.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-30T12:34:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Help.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Help.vb",
+              "RelativeDocumentMoniker": "Help.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Help.vb",
+              "RelativeToolTip": "Help.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-30T12:34:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit_My_Details.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Edit_My_Details.vb",
+              "RelativeDocumentMoniker": "Edit_My_Details.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\Edit_My_Details.vb [Design]",
+              "RelativeToolTip": "Edit_My_Details.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-02T16:43:05.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReceptionistDetails.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\ReceptionistDetails.vb",
+              "RelativeDocumentMoniker": "ReceptionistDetails.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\ReceptionistDetails.vb",
+              "RelativeToolTip": "ReceptionistDetails.vb",
+              "ViewState": "AQIAALQAAAAAAAAAAAAIwMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:12:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TripSupervise.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSupervise.vb",
+              "RelativeDocumentMoniker": "TripSupervise.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripSupervise.vb [Design]",
+              "RelativeToolTip": "TripSupervise.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-03T17:38:12.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TripInformation.vb",
+              "DocumentMoniker": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripInformation.vb",
+              "RelativeDocumentMoniker": "TripInformation.vb",
+              "ToolTip": "C:\\Users\\sha23877892\\Downloads\\Prototype\\TripInformation.vb",
+              "RelativeToolTip": "TripInformation.vb",
+              "ViewState": "AQIAAPYBAAAAAAAAAAAIwA4CAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T14:23:39.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

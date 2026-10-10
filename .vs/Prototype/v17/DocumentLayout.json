@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Garv\\6 Software Development\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DBD64-393C-478D-9003-B4365CE6EF6E}|Solution Items{7C3DBD64-393C-478D-9003-B4365CE6EF6E}|C:\\Garv\\6 Software Development\\Prototype\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7C3DBD64-393C-478D-9003-B4365CE6EF6E}|Solution Items{7C3DBD64-393C-478D-9003-B4365CE6EF6E}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|c:\\garv\\6 software development\\prototype\\manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:emergency_contacts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\monthlycalendarinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:monthlycalendarinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\global_module.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:global_module.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:edit_my_details.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:medical_info.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:help.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsignup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:receptionistadmincontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:main menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:splash_screen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:tripsupervise.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:manage_trips.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:teacherdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|C:\\Garv\\6 Software Development\\Prototype\\studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{82B4B2F7-C42D-4DA7-BE8A-9F0C9C974D2B}|Prototype.vbproj|solutionrelative:studentdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Global_Module.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Global_Module.vb",
+              "RelativeDocumentMoniker": "Global_Module.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Global_Module.vb",
+              "RelativeToolTip": "Global_Module.vb",
+              "ViewState": "AQIAALwAAAAAAAAAAAAYwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T14:01:01.273Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-10T20:38:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripSignup.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TripSignup.vb",
+              "RelativeDocumentMoniker": "TripSignup.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\TripSignup.vb",
+              "RelativeToolTip": "TripSignup.vb",
+              "ViewState": "AQIAANoAAAAAAAAAAAAwwOYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T19:51:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emergency_Contacts.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Emergency_Contacts.vb",
+              "RelativeDocumentMoniker": "Emergency_Contacts.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Emergency_Contacts.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Emergency_Contacts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T20:07:56.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emergency_Contacts.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Emergency_Contacts.vb",
+              "RelativeDocumentMoniker": "Emergency_Contacts.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Emergency_Contacts.vb",
+              "RelativeToolTip": "Emergency_Contacts.vb",
+              "ViewState": "AQIAAIkDAAAAAAAAAAAAwKcDAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-29T13:58:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medical_Info.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Medical_Info.vb",
+              "RelativeDocumentMoniker": "Medical_Info.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Medical_Info.vb",
+              "RelativeToolTip": "Medical_Info.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-29T13:57:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage_Trips.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Manage_Trips.vb",
+              "RelativeDocumentMoniker": "Manage_Trips.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Manage_Trips.vb",
+              "RelativeToolTip": "Manage_Trips.vb",
+              "ViewState": "AQIAAGgDAAAAAAAAAAAYwHADAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-23T17:32:27.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripInformation.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TripInformation.vb",
+              "RelativeDocumentMoniker": "TripInformation.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\TripInformation.vb",
+              "RelativeToolTip": "TripInformation.vb",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAIwHkBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T14:23:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherDetails.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TeacherDetails.vb",
+              "RelativeDocumentMoniker": "TeacherDetails.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\TeacherDetails.vb",
+              "RelativeToolTip": "TeacherDetails.vb",
+              "ViewState": "AQIAAFcEAAAAAAAAAAAAAFcEAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-10T10:09:58.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripSupervise.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TripSupervise.vb",
+              "RelativeDocumentMoniker": "TripSupervise.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\TripSupervise.vb",
+              "RelativeToolTip": "TripSupervise.vb",
+              "ViewState": "AQIAAGcCAAAAAAAAAAAAwGsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-03T17:38:18.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDetails.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\StudentDetails.vb",
+              "RelativeDocumentMoniker": "StudentDetails.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\StudentDetails.vb",
+              "RelativeToolTip": "StudentDetails.vb",
+              "ViewState": "AQIAAAUEAAAAAAAAAAAowA0EAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-19T16:44:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Splash_Screen.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Splash_Screen.vb",
+              "RelativeDocumentMoniker": "Splash_Screen.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Splash_Screen.vb",
+              "RelativeToolTip": "Splash_Screen.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-03T18:56:21.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Settings.vb",
+              "RelativeToolTip": "Settings.vb",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAwJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-19T11:22:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceptionistDetails.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\ReceptionistDetails.vb",
+              "RelativeDocumentMoniker": "ReceptionistDetails.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\ReceptionistDetails.vb",
+              "RelativeToolTip": "ReceptionistDetails.vb",
+              "ViewState": "AQIAANkDAAAAAAAAAAAAwPcDAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:12:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceptionistAdminControl.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\ReceptionistAdminControl.vb",
+              "RelativeDocumentMoniker": "ReceptionistAdminControl.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\ReceptionistAdminControl.vb",
+              "RelativeToolTip": "ReceptionistAdminControl.vb",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwBsBAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:02:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MonthlyCalendarInfo.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\MonthlyCalendarInfo.vb",
+              "RelativeDocumentMoniker": "MonthlyCalendarInfo.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\MonthlyCalendarInfo.vb",
+              "RelativeToolTip": "MonthlyCalendarInfo.vb",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAQwPsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T18:27:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MAIN MENU.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\MAIN MENU.vb",
+              "RelativeDocumentMoniker": "MAIN MENU.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\MAIN MENU.vb",
+              "RelativeToolTip": "MAIN MENU.vb",
+              "ViewState": "AQIAAAwCAAAAAAAAAAAAwCoCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T16:10:26.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Login.vb",
+              "RelativeToolTip": "Login.vb",
+              "ViewState": "AQIAABgBAAAAAAAAAAAAADUBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T14:00:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Help.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Help.vb",
+              "RelativeDocumentMoniker": "Help.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Help.vb",
+              "RelativeToolTip": "Help.vb",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-30T12:34:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit_My_Details.vb",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Edit_My_Details.vb",
+              "RelativeDocumentMoniker": "Edit_My_Details.vb",
+              "ToolTip": "C:\\Garv\\6 Software Development\\Prototype\\Edit_My_Details.vb",
+              "RelativeToolTip": "Edit_My_Details.vb",
+              "ViewState": "AQIAAF0CAAAAAAAAAAAAwHsCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-02T16:43:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Settings.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Settings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-19T11:22:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit_My_Details.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Edit_My_Details.vb",
+              "RelativeDocumentMoniker": "Edit_My_Details.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Edit_My_Details.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Edit_My_Details.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-02T16:43:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Medical_Info.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Medical_Info.vb",
+              "RelativeDocumentMoniker": "Medical_Info.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Medical_Info.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Medical_Info.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-29T13:55:59.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Help.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Help.vb",
+              "RelativeDocumentMoniker": "Help.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Help.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Help.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-30T12:34:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TripSignup.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TripSignup.vb",
+              "RelativeDocumentMoniker": "TripSignup.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TripSignup.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\TripSignup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T19:51:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TripInformation.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TripInformation.vb",
+              "RelativeDocumentMoniker": "TripInformation.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TripInformation.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\TripInformation.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T14:08:48.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReceptionistDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\ReceptionistDetails.vb",
+              "RelativeDocumentMoniker": "ReceptionistDetails.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\ReceptionistDetails.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\ReceptionistDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:11:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReceptionistAdminControl.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\ReceptionistAdminControl.vb",
+              "RelativeDocumentMoniker": "ReceptionistAdminControl.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\ReceptionistAdminControl.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\ReceptionistAdminControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-12T11:01:29.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MAIN MENU.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\MAIN MENU.vb",
+              "RelativeDocumentMoniker": "MAIN MENU.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\MAIN MENU.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\MAIN MENU.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T16:10:16.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Login.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T13:58:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Splash_Screen.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Splash_Screen.vb",
+              "RelativeDocumentMoniker": "Splash_Screen.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Splash_Screen.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Splash_Screen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-03T18:55:50.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeacherDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TeacherDetails.vb",
+              "RelativeDocumentMoniker": "TeacherDetails.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TeacherDetails.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\TeacherDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-10T09:49:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TripSupervise.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\TripSupervise.vb",
+              "RelativeDocumentMoniker": "TripSupervise.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\TripSupervise.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\TripSupervise.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-03T17:38:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manage_Trips.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\Manage_Trips.vb",
+              "RelativeDocumentMoniker": "Manage_Trips.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\Manage_Trips.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\Manage_Trips.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-23T17:31:30.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Garv\\6 Software Development\\Prototype\\StudentDetails.vb",
+              "RelativeDocumentMoniker": "StudentDetails.vb",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Prototype\\StudentDetails.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Dell\\Downloads\\Prototype\\StudentDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-19T16:44:03.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
